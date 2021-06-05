@@ -1,0 +1,26 @@
+Bonsai growing game
+	Chill game to grow your tree
+	Skill tree of what you can do
+	Enhance your bonsai skills to create even better bonsai
+Dodge projectile growing difficulty (maybe with music)
+	Small room, lot of death ray
+	Emphesize cool movement
+	Lot of geometrical shoots of rays
+Explore a dungeon pixel art
+	Little adventure - rogue like ?
+	Starting in village
+	Explore the dungeon
+	Fight, loot, puzzles
+Spaceship travels into space
+	Stuff break, need to manage them
+	Need to monitor your crew
+	Imposter, pirates
+	Cities and planet stops
+Steal the crown
+	Infiltration game
+	No lethal, no npc interaction --> Full fifi
+	Steal the crown of the castle
+	A level = a new castle
+	Maybe generate with pseudo randomness new castle
+	Add dash, hiding places, tools to open doors, jump, vents ...
+	You need to stealth it in a certain time
